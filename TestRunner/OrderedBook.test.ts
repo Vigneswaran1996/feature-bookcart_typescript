@@ -8,8 +8,7 @@ import loginjson from "../testdata/login.json";
 
 
 /**
-* This test case will be execution of login to sauce demo website.
-* 
+* This test case will be execution of login to Bookcart website
 */
 test("Login to Bookcart website", async ({ page, baseURL }) => {
 
